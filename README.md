@@ -12,3 +12,5 @@ Play with the Russian troll tweets in AWS Sagemaker
 [GitHub data repository](https://github.com/fivethirtyeight/russian-troll-tweets/)
 
 AWS docs [Importing data into RDS PostgreSQL](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html)
+
+AWS docs [Loading data into RDS PostgreSQL](https://aws.amazon.com/premiumsupport/knowledge-center/rds-import-data/)
